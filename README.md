@@ -318,7 +318,7 @@ Otherwise, the trained model is loaded directly and used for autonomous driving.
 
 ---
 
-# 📈 Technologies Used
+#  Technologies Used
 
 - Python
 - TORCS
@@ -330,7 +330,7 @@ Otherwise, the trained model is loaded directly and used for autonomous driving.
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Deep Reinforcement Learning (PPO, SAC, DDPG)
 - Sequence Models (LSTM/GRU)
